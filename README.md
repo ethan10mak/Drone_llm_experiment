@@ -23,5 +23,5 @@ python tests.py 'type of test (a, h, b, t)'
 Here are what each of the command arguments do:
 - a: runs a test comparing a drone LLM without prompting and a drone LLM with prompting and history frames on scenes with inconsistencies. The results will be shown in a graph which is saved as 'drone_graph_comparison.png' and will be appended to output.json.
 - h: runs a test comparing a drone LLM with prompting but with different numbers of history in decreasing order from 4 to 1. The results will be shown in a graph which is saved as 'drone_graph_history_frames.png' and will be appended to output.
--b: (Unfinished) runs a test comparing a drone LLM without prompting and a drone LLM with prompting and history frames on benign scenes.
--t: runs one test on a drone LLM with prompting and history frames on the temporal inconsistency scene and prints the output.
+- b: (Unfinished) runs a test comparing a drone LLM without prompting and a drone LLM with prompting and history frames on benign scenes.
+- t: runs one test on a drone LLM with prompting and history frames on the temporal inconsistency scene and prints the output.
