@@ -1,5 +1,9 @@
 # Drone LLM Experiments
 
+This project was done for my class CSE 233: Advanced Computer Security. 
+
+In this project, we investigate the performance of LLMs under these adversarial conditions, examining their ability to detect and respond to perception and GPS spoofing attacks. Specifically, we analyze whether LLMs can identify inconsistencies in textual scene descriptions caused by these attacks and evaluate their effectiveness as an additional layer of security. Furthermore, we explore tailored prompting techniques to enhance the LLMs’ ability to recognize anomalies and improve their robustness against adversarial manipulation. Through these experiments, we aim to assess the viability of LLMs as a defense mechanism in autonomous drone operations and contribute insights into their potential role in enhancing cybersecurity for AI-powered systems.
+
 These files will run different types of tests
 
 ## CHATGPT API KEY
